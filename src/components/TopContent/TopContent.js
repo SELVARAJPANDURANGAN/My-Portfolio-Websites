@@ -7,7 +7,7 @@ const TopContent = () => {
     return (
         <div className="topContent" >
        <div className="topContent__container">
-       <h1>Mr.Selvaraj</h1>
+       <h2>Mr.Selvaraj</h2>
          <p>A Professional <b>FULL STACK DEVELOPER</b></p>
          <a
             href="https://drive.google.com/file/d/1eL7Ajwo1D58PeCO5NsrVEBym_hR_Rw2t/view?usp=share_link"
